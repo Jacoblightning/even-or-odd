@@ -1,0 +1,2 @@
+# even-or-odd
+STOP TELLING ME TO MAKE IT AN EXE. ILL DO IT
